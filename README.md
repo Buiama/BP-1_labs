@@ -1,5 +1,5 @@
 # BP_labs
-Fundamentals of programming - 1. Basic construction
+Programming basics- 1. Basic constructions
 
 Variant 5
 
